@@ -1,4 +1,4 @@
-* Twitter hosted app for Chrome
+# Twitter hosted app for Chrome
 
 The simplest app I could think of, I needed a big birdie bookmark in my Chrome app page.
 
