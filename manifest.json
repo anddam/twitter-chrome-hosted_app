@@ -2,6 +2,7 @@
   "name": "Twitter",
   "description": "Tweet your birdsongs to the world",
   "version": "1",
+  "manifest_version": 2,
   "app": {
     "urls": [
       "*://twitter.com/"
